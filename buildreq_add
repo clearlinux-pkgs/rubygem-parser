@@ -1,0 +1,12 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-coveralls
+rubygem-gauntlet
+rubygem-json_pure
+rubygem-kramdown
+rubygem-minitest
+rubygem-rdoc
+rubygem-rest-client
+rubygem-rubygems-tasks
+rubygem-yard
