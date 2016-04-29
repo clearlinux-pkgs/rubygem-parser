@@ -4,7 +4,7 @@
 #
 Name     : rubygem-parser
 Version  : 2.2.2.6
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/parser-2.2.2.6.gem
 Source0  : https://rubygems.org/downloads/parser-2.2.2.6.gem
 Summary  : No detailed summary available
